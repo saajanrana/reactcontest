@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcontest/static/css/main.cb0c02ec.css",
+    "main.js": "/reactcontest/static/js/main.74046853.js",
+    "index.html": "/reactcontest/index.html",
+    "main.cb0c02ec.css.map": "/reactcontest/static/css/main.cb0c02ec.css.map",
+    "main.74046853.js.map": "/reactcontest/static/js/main.74046853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb0c02ec.css",
+    "static/js/main.74046853.js"
+  ]
+}
